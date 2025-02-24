@@ -1,0 +1,10 @@
+Project: {{ title }}
+Client: {{ client }}
+Budget: ${{ budget }}
+Deadline: {{ deadline }}
+Scope of Work:
+{{ scope }}
+Payment Terms:
+{{ payment_terms }}
+Confidentiality Clause:
+{{ confidentiality_clause }}
