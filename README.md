@@ -5,7 +5,7 @@ This project is designed to automate the end-to-end workflow of sourcing, managi
 ## Project Structure
 
 The project is organized into modular folders for scalability and maintainability. Here’s an overview of the folder structure:
-
+```css
 ai-agents-project/
 ├── agents/                     # Folder for all AI agents
  │   ├── project_discovery/      # Project Discovery Agent
@@ -18,7 +18,7 @@ ai-agents-project/
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
 └── main.py                     # Entry point for the entire project
-
+```
 ## Agents Overview
 
 ### 1. Project Discovery Agent
@@ -142,14 +142,4 @@ ai-agents-project/
    For questions or feedback, reach out to:
 
 - Rupesh yadav - ry993494787[@gmail.com](mailto: ry993494787@gmail.com "gmail")
-- **Project Repository** - [GitHub]([https://github.com/your-username/ai-agents-project](https://github.com/your-username/ai-agents-project))
-
-```---###
-1. Copy the content above into a file named `README.md` in the root of your project directory.
-2. Replace placeholders (e.g., `your-username`, `[your.email@example.com](mailto:your.email@example.com)`) with your actual information.
-3. Commit the file to your repository:
-   ```bash
-   git add README.md
-   git commit -m "Add project README"
-   git push origin main
-```
+- **Project Repository** - [GitHub]([https://github.com/RupeshDev18/AI-Agents.git](https://github.com/RupeshDev18/AI-Agents.git)))
